@@ -1,0 +1,4 @@
+To create a Power BI dashboard for analyzing loan performance and borrower attributes using key
+data such as loan status, state, employment length, income, and loan purpose. The dashboard will
+provide insights into loan distribution by grade, term, home ownership, and debt-to-income (DTI)
+ratios, as well as trends in payment history, credit pulls, and installment performance.
